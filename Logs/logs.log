@@ -1,0 +1,513 @@
+17:10:28.483 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+17:10:28.510 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+17:10:28.510 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+17:10:28.511 [main] INFO  java.lang.Class - Url is retrieved from properties file
+17:10:28.511 [main] INFO  java.lang.Class - test Data file path is retrieved
+17:43:17.448 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+17:43:17.492 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+17:43:17.493 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+17:43:17.493 [main] INFO  java.lang.Class - Url is retrieved from properties file
+17:43:17.494 [main] INFO  java.lang.Class - test Data file path is retrieved
+17:45:52.978 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+17:45:52.997 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+17:45:52.998 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+17:45:52.998 [main] INFO  java.lang.Class - Url is retrieved from properties file
+17:45:52.998 [main] INFO  java.lang.Class - test Data file path is retrieved
+17:49:11.093 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+17:49:11.119 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+17:49:11.119 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+17:49:11.120 [main] INFO  java.lang.Class - Url is retrieved from properties file
+17:49:11.120 [main] INFO  java.lang.Class - test Data file path is retrieved
+17:52:47.231 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+17:52:47.251 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+17:52:47.251 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+17:52:47.251 [main] INFO  java.lang.Class - Url is retrieved from properties file
+17:52:47.252 [main] INFO  java.lang.Class - test Data file path is retrieved
+18:01:24.061 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+18:01:24.074 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+18:01:24.075 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+18:01:24.075 [main] INFO  java.lang.Class - Url is retrieved from properties file
+18:01:24.076 [main] INFO  java.lang.Class - test Data file path is retrieved
+07:47:41.411 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+07:47:41.418 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+07:47:41.418 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+07:47:41.418 [main] INFO  java.lang.Class - Url is retrieved from properties file
+07:47:41.419 [main] INFO  java.lang.Class - test Data file path is retrieved
+07:49:47.596 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+07:49:47.604 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+07:49:47.604 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+07:49:47.604 [main] INFO  java.lang.Class - Url is retrieved from properties file
+07:49:47.604 [main] INFO  java.lang.Class - test Data file path is retrieved
+07:52:17.395 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+07:52:17.402 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+07:52:17.402 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+07:52:17.402 [main] INFO  java.lang.Class - Url is retrieved from properties file
+07:52:17.402 [main] INFO  java.lang.Class - test Data file path is retrieved
+07:54:56.192 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+07:54:56.199 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+07:54:56.199 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+07:54:56.200 [main] INFO  java.lang.Class - Url is retrieved from properties file
+07:54:56.200 [main] INFO  java.lang.Class - test Data file path is retrieved
+07:56:50.295 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+07:56:50.302 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+07:56:50.302 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+07:56:50.302 [main] INFO  java.lang.Class - Url is retrieved from properties file
+07:56:50.302 [main] INFO  java.lang.Class - test Data file path is retrieved
+07:59:30.071 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+07:59:30.079 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+07:59:30.079 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+07:59:30.079 [main] INFO  java.lang.Class - Url is retrieved from properties file
+07:59:30.079 [main] INFO  java.lang.Class - test Data file path is retrieved
+08:10:46.162 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+08:10:46.170 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+08:10:46.170 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+08:10:46.170 [main] INFO  java.lang.Class - Url is retrieved from properties file
+08:10:46.170 [main] INFO  java.lang.Class - test Data file path is retrieved
+08:12:33.256 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+08:12:33.262 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+08:12:33.263 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+08:12:33.263 [main] INFO  java.lang.Class - Url is retrieved from properties file
+08:12:33.263 [main] INFO  java.lang.Class - test Data file path is retrieved
+08:19:45.175 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+08:19:45.182 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+08:19:45.182 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+08:19:45.182 [main] INFO  java.lang.Class - Url is retrieved from properties file
+08:19:45.182 [main] INFO  java.lang.Class - test Data file path is retrieved
+08:21:50.031 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+08:21:50.038 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+08:21:50.038 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+08:21:50.038 [main] INFO  java.lang.Class - Url is retrieved from properties file
+08:21:50.038 [main] INFO  java.lang.Class - test Data file path is retrieved
+08:24:19.860 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+08:24:19.867 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+08:24:19.868 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+08:24:19.868 [main] INFO  java.lang.Class - Url is retrieved from properties file
+08:24:19.868 [main] INFO  java.lang.Class - test Data file path is retrieved
+08:39:21.779 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+08:39:21.785 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+08:39:21.786 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+08:39:21.786 [main] INFO  java.lang.Class - Url is retrieved from properties file
+08:39:21.786 [main] INFO  java.lang.Class - test Data file path is retrieved
+08:57:03.790 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+08:57:03.798 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+08:57:03.799 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+08:57:03.799 [main] INFO  java.lang.Class - Url is retrieved from properties file
+08:57:03.799 [main] INFO  java.lang.Class - test Data file path is retrieved
+08:57:49.673 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+08:57:49.680 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+08:57:49.680 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+08:57:49.680 [main] INFO  java.lang.Class - Url is retrieved from properties file
+08:57:49.680 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:01:53.603 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:01:53.611 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:01:53.611 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:01:53.612 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:01:53.612 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:18:03.406 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:18:03.413 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:18:03.413 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:18:03.413 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:18:03.413 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:22:52.736 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:22:52.743 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:22:52.743 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:22:52.743 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:22:52.744 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:33:48.876 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:33:48.882 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:33:48.883 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:33:48.883 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:33:48.883 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:41:21.752 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:41:21.759 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:41:21.759 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:41:21.760 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:41:21.760 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:45:03.819 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:45:03.826 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:45:03.826 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:45:03.826 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:45:03.827 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:51:00.260 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:51:00.267 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:51:00.267 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:51:00.267 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:51:00.267 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:54:38.399 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:54:38.406 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:54:38.407 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:54:38.407 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:54:38.407 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:21:02.031 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:21:02.031 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:21:02.031 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:21:02.031 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:21:02.031 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:27:22.231 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:27:22.231 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:27:22.231 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:27:22.231 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:27:22.231 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:34:11.967 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:34:11.967 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:34:11.967 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:34:11.967 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:34:11.967 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:07:39.051 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:07:39.073 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:07:39.073 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:07:39.073 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:07:39.073 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:27:14.515 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:27:14.526 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:27:14.526 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:27:14.526 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:27:14.526 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:40:12.588 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:40:12.595 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:40:12.596 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:40:12.596 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:40:12.596 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:00:17.543 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:00:17.551 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:00:17.551 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:00:17.552 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:00:17.552 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:11:05.533 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:11:05.540 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:11:05.540 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:11:05.541 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:11:05.541 [main] INFO  java.lang.Class - test Data file path is retrieved
+22:07:33.706 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+22:07:33.713 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+22:07:33.714 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+22:07:33.714 [main] INFO  java.lang.Class - Url is retrieved from properties file
+22:07:33.714 [main] INFO  java.lang.Class - test Data file path is retrieved
+22:16:39.941 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+22:16:39.948 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+22:16:39.948 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+22:16:39.948 [main] INFO  java.lang.Class - Url is retrieved from properties file
+22:16:39.949 [main] INFO  java.lang.Class - test Data file path is retrieved
+22:23:20.758 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+22:23:20.765 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+22:23:20.765 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+22:23:20.765 [main] INFO  java.lang.Class - Url is retrieved from properties file
+22:23:20.766 [main] INFO  java.lang.Class - test Data file path is retrieved
+22:32:08.074 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+22:32:08.081 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+22:32:08.082 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+22:32:08.082 [main] INFO  java.lang.Class - Url is retrieved from properties file
+22:32:08.082 [main] INFO  java.lang.Class - test Data file path is retrieved
+22:32:08.749 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+22:32:08.778 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+22:32:08.793 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+22:35:22.301 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+22:35:22.308 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+22:35:22.308 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+22:35:22.309 [main] INFO  java.lang.Class - Url is retrieved from properties file
+22:35:22.309 [main] INFO  java.lang.Class - test Data file path is retrieved
+22:35:23.034 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+22:35:23.059 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+22:35:23.082 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+22:44:54.553 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+22:44:54.570 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+22:44:54.570 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+22:44:54.570 [main] INFO  java.lang.Class - Url is retrieved from properties file
+22:44:54.570 [main] INFO  java.lang.Class - test Data file path is retrieved
+22:44:55.338 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+22:44:55.367 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+22:44:55.382 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+23:03:44.433 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:03:44.440 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:03:44.440 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:03:44.440 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:03:44.441 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:03:45.125 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+23:03:45.158 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+23:03:45.177 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+23:10:33.091 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:10:33.098 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:10:33.098 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:10:33.098 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:10:33.098 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:14:30.548 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:14:30.555 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:14:30.555 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:14:30.555 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:14:30.556 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:22:37.144 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:22:37.151 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:22:37.151 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:22:37.152 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:22:37.152 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:22:37.766 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+23:22:37.791 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+23:22:37.811 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+23:30:21.243 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:30:21.250 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:30:21.251 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:30:21.251 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:30:21.251 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:30:21.927 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+23:30:21.957 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+23:30:21.972 [TestNG-tests-2] ERROR java.lang.Class - unreachable Firefox browser exception
+23:35:44.558 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:35:44.565 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:35:44.566 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:35:44.566 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:35:44.566 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:35:45.196 [TestNG-tests-1] ERROR java.lang.Class - unreachable Firefox browser exception
+23:35:45.219 [TestNG-tests-1] ERROR java.lang.Class - unreachable Firefox browser exception
+23:35:45.233 [TestNG-tests-1] ERROR java.lang.Class - unreachable Firefox browser exception
+23:37:34.281 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:37:34.288 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:37:34.289 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:37:34.289 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:37:34.289 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:37:34.989 [TestNG-tests-1] ERROR java.lang.Class - unreachable Firefox browser exception
+23:37:35.012 [TestNG-tests-1] ERROR java.lang.Class - unreachable Firefox browser exception
+23:37:35.026 [TestNG-tests-1] ERROR java.lang.Class - unreachable Firefox browser exception
+23:38:52.594 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:38:52.601 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:38:52.601 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:38:52.602 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:38:52.602 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:38:53.277 [TestNG-tests-1] ERROR java.lang.Class - unreachable Firefox browser exception
+23:38:53.302 [TestNG-tests-1] ERROR java.lang.Class - unreachable Firefox browser exception
+23:38:53.317 [TestNG-tests-1] ERROR java.lang.Class - unreachable Firefox browser exception
+23:40:51.787 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:40:51.794 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:40:51.795 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:40:51.795 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:40:51.795 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:41:48.942 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:41:48.949 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:41:48.949 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:41:48.949 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:41:48.949 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:46:57.040 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:46:57.046 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:46:57.047 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:46:57.047 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:46:57.047 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:48:51.623 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:48:51.630 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:48:51.630 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:48:51.630 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:48:51.630 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:51:47.121 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:51:47.128 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:51:47.129 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:51:47.129 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:51:47.129 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:55:06.832 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:55:06.839 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:55:06.840 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:55:06.840 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:55:06.840 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:56:31.692 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:56:31.700 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:56:31.700 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:56:31.700 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:56:31.701 [main] INFO  java.lang.Class - test Data file path is retrieved
+23:58:36.400 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+23:58:36.407 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+23:58:36.407 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+23:58:36.408 [main] INFO  java.lang.Class - Url is retrieved from properties file
+23:58:36.408 [main] INFO  java.lang.Class - test Data file path is retrieved
+00:04:32.011 [main] INFO  java.lang.Class - Url is retrieved from properties file
+00:04:32.018 [main] INFO  java.lang.Class - test Data file path is retrieved
+00:04:32.018 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+00:04:32.019 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+00:04:32.019 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+00:04:32.019 [main] INFO  java.lang.Class - Url is retrieved from properties file
+00:04:32.019 [main] INFO  java.lang.Class - test Data file path is retrieved
+00:19:50.761 [main] INFO  java.lang.Class - Url is retrieved from properties file
+00:19:50.768 [main] INFO  java.lang.Class - test Data file path is retrieved
+00:19:50.769 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+00:19:50.769 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+00:19:50.769 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+00:19:50.769 [main] INFO  java.lang.Class - Url is retrieved from properties file
+00:19:50.769 [main] INFO  java.lang.Class - test Data file path is retrieved
+00:34:16.339 [main] INFO  java.lang.Class - Url is retrieved from properties file
+00:34:16.346 [main] INFO  java.lang.Class - test Data file path is retrieved
+00:34:16.347 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+00:34:16.347 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+00:34:16.347 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+00:34:16.347 [main] INFO  java.lang.Class - Url is retrieved from properties file
+00:34:16.348 [main] INFO  java.lang.Class - test Data file path is retrieved
+00:38:14.178 [main] INFO  java.lang.Class - Url is retrieved from properties file
+00:38:14.185 [main] INFO  java.lang.Class - test Data file path is retrieved
+00:38:14.186 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+00:38:14.186 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+00:38:14.186 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+00:38:14.186 [main] INFO  java.lang.Class - Url is retrieved from properties file
+00:38:14.186 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:41:46.737 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:41:46.764 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:41:46.765 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:41:46.765 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:41:46.765 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:41:46.765 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:41:46.766 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:48:42.662 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:48:42.669 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:48:42.670 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:48:42.670 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:48:42.670 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:48:42.670 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:48:42.670 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:53:17.655 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:53:17.662 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:53:17.662 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:53:17.663 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:53:17.663 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:53:17.663 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:53:17.663 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:58:34.429 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:58:34.436 [main] INFO  java.lang.Class - test Data file path is retrieved
+09:58:34.437 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+09:58:34.437 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+09:58:34.437 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+09:58:34.438 [main] INFO  java.lang.Class - Url is retrieved from properties file
+09:58:34.438 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:03:17.076 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:03:17.083 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:03:17.083 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:03:17.083 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:03:17.083 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:07:24.019 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:07:24.025 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:07:24.026 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:07:24.026 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:07:24.026 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:12:14.576 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:12:14.583 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:12:14.584 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:12:14.584 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:12:14.584 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:19:00.042 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:19:00.049 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:19:00.049 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:19:00.049 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:19:00.050 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:25:29.076 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:25:29.083 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:25:29.083 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:25:29.083 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:25:29.084 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:29:24.379 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:29:24.387 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:29:24.387 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:29:24.388 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:29:24.388 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:35:12.319 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:35:12.326 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:35:12.326 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:35:12.326 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:35:12.326 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:40:55.338 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:40:55.345 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:40:55.345 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:40:55.345 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:40:55.345 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:46:57.008 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:46:57.015 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:46:57.015 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:46:57.015 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:46:57.016 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:50:52.410 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:50:52.416 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:50:52.417 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:50:52.417 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:50:52.417 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:55:19.609 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:55:19.629 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:55:19.629 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:55:19.630 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:55:19.630 [main] INFO  java.lang.Class - test Data file path is retrieved
+10:58:11.050 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+10:58:11.056 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+10:58:11.057 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+10:58:11.057 [main] INFO  java.lang.Class - Url is retrieved from properties file
+10:58:11.057 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:06:53.505 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:06:53.511 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:06:53.512 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:06:53.512 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:06:53.512 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:10:07.196 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:10:07.203 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:10:07.203 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:10:07.203 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:10:07.203 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:14:46.986 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:14:46.993 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:14:46.993 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:14:46.993 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:14:46.993 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:21:14.025 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:21:14.032 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:21:14.032 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:21:14.032 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:21:14.032 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:26:15.356 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:26:15.363 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:26:15.363 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:26:15.363 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:26:15.363 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:31:09.548 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:31:09.555 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:31:09.555 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:31:09.556 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:31:09.556 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:34:07.584 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:34:07.591 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:34:07.591 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:34:07.591 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:34:07.591 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:37:55.838 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:37:55.845 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:37:55.845 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:37:55.845 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:37:55.845 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:41:29.650 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:41:29.657 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:41:29.658 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:41:29.658 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:41:29.658 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:44:16.402 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:44:16.410 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:44:16.411 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:44:16.411 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:44:16.411 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:49:40.559 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:49:40.566 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:49:40.566 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:49:40.567 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:49:40.567 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:54:13.693 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:54:13.700 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:54:13.701 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:54:13.701 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:54:13.701 [main] INFO  java.lang.Class - test Data file path is retrieved
+11:58:21.353 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+11:58:21.361 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+11:58:21.361 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+11:58:21.361 [main] INFO  java.lang.Class - Url is retrieved from properties file
+11:58:21.361 [main] INFO  java.lang.Class - test Data file path is retrieved
+12:00:54.979 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+12:00:54.986 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+12:00:54.986 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+12:00:54.987 [main] INFO  java.lang.Class - Url is retrieved from properties file
+12:00:54.987 [main] INFO  java.lang.Class - test Data file path is retrieved
+12:06:33.561 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+12:06:33.568 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+12:06:33.568 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+12:06:33.569 [main] INFO  java.lang.Class - Url is retrieved from properties file
+12:06:33.569 [main] INFO  java.lang.Class - test Data file path is retrieved
+12:07:53.705 [main] INFO  java.lang.Class - Chrome web driver path is retrieved
+12:07:53.712 [main] INFO  java.lang.Class - Internet explorer web driver path is retrieved
+12:07:53.712 [main] INFO  java.lang.Class - FireFox web driver path is retrieved
+12:07:53.712 [main] INFO  java.lang.Class - Url is retrieved from properties file
+12:07:53.713 [main] INFO  java.lang.Class - test Data file path is retrieved

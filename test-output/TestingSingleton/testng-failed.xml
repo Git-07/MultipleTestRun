@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [TestingSingleton]">
+  <test name="Test2(failed)">
+    <parameter name="pageurl" value="PageUrl"/>
+    <parameter name="browser" value="InternetExplorer"/>
+    <parameter name="attribute" value="AttributeName"/>
+    <parameter name="src" value="ExpectedSrc"/>
+    <classes>
+      <class name="Com.Test_Classes.Test_Class1">
+        <methods>
+          <include name="getTheProperty"/>
+          <include name="closeTheDriverInstance"/>
+          <include name="orgbImmersiveAurora" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Com.Test_Classes.Test_Class1 -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [TestingSingleton] -->

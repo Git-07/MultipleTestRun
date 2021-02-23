@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [LocalisationTesting]" parallel="tests">
+  <parameter name="mode" value="local"/>
+  <parameter name="startoftest" value="1"/>
+  <parameter name="test" value="TC_00"/>
+  <parameter name="localisation" value="No"/>
+  <parameter name="testcases" value="5"/>
+  <parameter name="threads" value="3"/>
+  <parameter name="runParallel" value="methods"/>
+  <test thread-count="3" name="ChromeBrowserTest(failed)" parallel="tests">
+    <parameter name="src" value="ExpectedSrc"/>
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="attribute" value="AttributeName"/>
+    <parameter name="pageurl" value="PageUrl"/>
+    <classes>
+      <class name="Com.Test_Classes.MethodsAndTestsMultiThreading">
+        <methods>
+          <include name="top10Button" invocation-numbers="0"/>
+          <include name="createBrowserInstance"/>
+          <include name="closeBrowser"/>
+          <include name="homeButton" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Com.Test_Classes.MethodsAndTestsMultiThreading -->
+    </classes>
+  </test> <!-- ChromeBrowserTest(failed) -->
+</suite> <!-- Failed suite [LocalisationTesting] -->

@@ -1,0 +1,52 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<suite name="LocalisationTesting" parallel="tests" thread-count="2">
+<listeners>
+<!-- <listener class-name="Com.App_Functions.AnnotationTransformer"></listener> -->
+</listeners>
+<test name="ChromeBrowserTest">
+<parameter name="browser" value="Chrome"/>
+<parameter name="src" value="ExpectedSrc"/>
+<parameter name="attribute" value="AttributeName"/>
+<parameter name="pageurl" value="PageUrl"/>
+<parameter name="locale" value="en-in"/>
+<parameter name="localisation" value="No"/>
+<parameter name="testname" value="Test1"/>
+<!-- <parameter name="regionUrl" value="it-it/index.html"/> -->
+<!-- <groups>
+<define name= "all">
+<include name="smoke"/>
+<include name="functional"/>
+</define>
+<run>
+<include name="all"/>
+</run>
+</groups> -->
+<classes>
+<class name="Com.Test_Classes.Upload_File_Test"/>
+</classes>
+</test>
+ <test name="InternetExplorerBrowserTest">
+<parameter name="browser" value="InternetExplorer"/>
+<parameter name="src" value="ExpectedSrc"/>
+<parameter name="attribute" value="AttributeName"/>
+<parameter name="pageurl" value="PageUrl"/>
+<parameter name="locale" value="en-in"/>
+<parameter name="localisation" value="No"/>
+<parameter name="testname" value="Test2"/>
+<!-- <groups>
+<define name= "all">
+<include name="smoke"/>
+<include name="functional"/>
+</define>
+<run>
+<include name="all"/>
+</run>
+</groups> -->
+<classes>
+<class name="Com.Test_Classes.Upload_File_Test"/>
+</classes>
+
+</test>
+
+</suite>

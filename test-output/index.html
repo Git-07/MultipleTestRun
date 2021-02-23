@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-LocalisationTesting">
+              <span class="suite-name border-failed">LocalisationTesting</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-LocalisationTesting">
+                    <span>D:\workspace\Peoplehub_Project\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-LocalisationTesting">
+                    <span class="test-stats">3 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-LocalisationTesting">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-LocalisationTesting">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-LocalisationTesting">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-LocalisationTesting">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-LocalisationTesting">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">9 methods, 2 failed,   7 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-LocalisationTesting" class="hide-methods failed suite-LocalisationTesting"> (hide)</a> <!-- hide-methods failed suite-LocalisationTesting -->
+                      <a href="#" panel-name="suite-LocalisationTesting" class="show-methods failed suite-LocalisationTesting"> (show)</a> <!-- show-methods failed suite-LocalisationTesting -->
+                    </span>
+                    <div class="method-list-content failed suite-LocalisationTesting">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-LocalisationTesting" title="Com.Test_Classes.MethodsAndTestsMultiThreading" hash-for-method="homeButton(Chrome, methods, 3)">homeButton(Chrome, methods, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-LocalisationTesting" title="Com.Test_Classes.MethodsAndTestsMultiThreading" hash-for-method="top10Button(Chrome, methods, 3)">top10Button(Chrome, methods, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-LocalisationTesting -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-LocalisationTesting" class="hide-methods passed suite-LocalisationTesting"> (hide)</a> <!-- hide-methods passed suite-LocalisationTesting -->
+                      <a href="#" panel-name="suite-LocalisationTesting" class="show-methods passed suite-LocalisationTesting"> (show)</a> <!-- show-methods passed suite-LocalisationTesting -->
+                    </span>
+                    <div class="method-list-content passed suite-LocalisationTesting">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-LocalisationTesting" title="Com.Test_Classes.MethodsAndTestsMultiThreading" hash-for-method="fetchTheData(InternetExplorer, methods, 3)">fetchTheData(InternetExplorer, methods, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-LocalisationTesting" title="Com.Test_Classes.MethodsAndTestsMultiThreading" hash-for-method="fetchTheData(Firefox, methods, 3)">fetchTheData(Firefox, methods, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-LocalisationTesting" title="Com.Test_Classes.MethodsAndTestsMultiThreading" hash-for-method="fetchTheData(Chrome, methods, 3)">fetchTheData(Chrome, methods, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-LocalisationTesting" title="Com.Test_Classes.MethodsAndTestsMultiThreading" hash-for-method="homeButton(InternetExplorer, methods, 3)">homeButton(InternetExplorer, methods, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-LocalisationTesting" title="Com.Test_Classes.MethodsAndTestsMultiThreading" hash-for-method="homeButton(Firefox, methods, 3)">homeButton(Firefox, methods, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-LocalisationTesting" title="Com.Test_Classes.MethodsAndTestsMultiThreading" hash-for-method="top10Button(InternetExplorer, methods, 3)">top10Button(InternetExplorer, methods, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-LocalisationTesting" title="Com.Test_Classes.MethodsAndTestsMultiThreading" hash-for-method="top10Button(Firefox, methods, 3)">top10Button(Firefox, methods, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-LocalisationTesting -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-LocalisationTesting" class="panel LocalisationTesting">
+          <div class="suite-LocalisationTesting-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">Com.Test_Classes.MethodsAndTestsMultiThreading</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="homeButton(Chrome, methods, 3)">
+                  </a> <!-- homeButton(Chrome, methods, 3) -->
+                  <span class="method-name">homeButton</span>
+                  <span class="parameters">(Chrome, methods, 3)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:3375
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;
+System info: host: &apos;MOHIT-PC&apos;, ip: &apos;192.168.0.103&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_05&apos;
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at Com.Test_Classes.MethodsAndTestsMultiThreading.homeButton(MethodsAndTestsMultiThreading.java:68)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:3375
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:155)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	... 24 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
+	... 44 more
+... Removed 16 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="top10Button(Chrome, methods, 3)">
+                  </a> <!-- top10Button(Chrome, methods, 3) -->
+                  <span class="method-name">top10Button</span>
+                  <span class="parameters">(Chrome, methods, 3)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:4700
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;
+System info: host: &apos;MOHIT-PC&apos;, ip: &apos;192.168.0.103&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_05&apos;
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at Com.Test_Classes.MethodsAndTestsMultiThreading.top10Button(MethodsAndTestsMultiThreading.java:81)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:4700
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:155)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	... 23 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
+	... 43 more
+... Removed 16 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-LocalisationTesting-class-failed -->
+          <div class="suite-LocalisationTesting-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">Com.Test_Classes.MethodsAndTestsMultiThreading</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="fetchTheData(InternetExplorer, methods, 3)">
+                  </a> <!-- fetchTheData(InternetExplorer, methods, 3) -->
+                  <span class="method-name">fetchTheData</span>
+                  <span class="parameters">(InternetExplorer, methods, 3)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="fetchTheData(Firefox, methods, 3)">
+                  </a> <!-- fetchTheData(Firefox, methods, 3) -->
+                  <span class="method-name">fetchTheData</span>
+                  <span class="parameters">(Firefox, methods, 3)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="fetchTheData(Chrome, methods, 3)">
+                  </a> <!-- fetchTheData(Chrome, methods, 3) -->
+                  <span class="method-name">fetchTheData</span>
+                  <span class="parameters">(Chrome, methods, 3)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="homeButton(InternetExplorer, methods, 3)">
+                  </a> <!-- homeButton(InternetExplorer, methods, 3) -->
+                  <span class="method-name">homeButton</span>
+                  <span class="parameters">(InternetExplorer, methods, 3)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="homeButton(Firefox, methods, 3)">
+                  </a> <!-- homeButton(Firefox, methods, 3) -->
+                  <span class="method-name">homeButton</span>
+                  <span class="parameters">(Firefox, methods, 3)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="top10Button(InternetExplorer, methods, 3)">
+                  </a> <!-- top10Button(InternetExplorer, methods, 3) -->
+                  <span class="method-name">top10Button</span>
+                  <span class="parameters">(InternetExplorer, methods, 3)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="top10Button(Firefox, methods, 3)">
+                  </a> <!-- top10Button(Firefox, methods, 3) -->
+                  <span class="method-name">top10Button</span>
+                  <span class="parameters">(Firefox, methods, 3)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-LocalisationTesting-class-passed -->
+        </div> <!-- panel LocalisationTesting -->
+        <div panel-name="test-xml-LocalisationTesting" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">D:\workspace\Peoplehub_Project\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite thread-count=&quot;3&quot; guice-stage=&quot;DEVELOPMENT&quot; name=&quot;LocalisationTesting&quot; parallel=&quot;tests&quot;&gt;
+  &lt;parameter name=&quot;mode&quot; value=&quot;local&quot;/&gt;
+  &lt;parameter name=&quot;startoftest&quot; value=&quot;1&quot;/&gt;
+  &lt;parameter name=&quot;test&quot; value=&quot;TC_00&quot;/&gt;
+  &lt;parameter name=&quot;localisation&quot; value=&quot;No&quot;/&gt;
+  &lt;parameter name=&quot;testcases&quot; value=&quot;5&quot;/&gt;
+  &lt;parameter name=&quot;threads&quot; value=&quot;3&quot;/&gt;
+  &lt;parameter name=&quot;runParallel&quot; value=&quot;methods&quot;/&gt;
+  &lt;test thread-count=&quot;3&quot; name=&quot;ChromeBrowserTest&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;src&quot; value=&quot;ExpectedSrc&quot;/&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;Chrome&quot;/&gt;
+    &lt;parameter name=&quot;attribute&quot; value=&quot;AttributeName&quot;/&gt;
+    &lt;parameter name=&quot;pageurl&quot; value=&quot;PageUrl&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Com.App_Functions.WebDriver_Instance&quot;/&gt;
+      &lt;class name=&quot;Com.Test_Classes.MethodsAndTestsMultiThreading&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- ChromeBrowserTest --&gt;
+  &lt;test thread-count=&quot;3&quot; name=&quot;FirefoxBrowserTest&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;src&quot; value=&quot;ExpectedSrc&quot;/&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;Firefox&quot;/&gt;
+    &lt;parameter name=&quot;attribute&quot; value=&quot;AttributeName&quot;/&gt;
+    &lt;parameter name=&quot;pageurl&quot; value=&quot;PageUrl&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Com.App_Functions.WebDriver_Instance&quot;/&gt;
+      &lt;class name=&quot;Com.Test_Classes.MethodsAndTestsMultiThreading&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- FirefoxBrowserTest --&gt;
+  &lt;test thread-count=&quot;3&quot; name=&quot;IEBrowserTest&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;src&quot; value=&quot;ExpectedSrc&quot;/&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;InternetExplorer&quot;/&gt;
+    &lt;parameter name=&quot;attribute&quot; value=&quot;AttributeName&quot;/&gt;
+    &lt;parameter name=&quot;pageurl&quot; value=&quot;PageUrl&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Com.App_Functions.WebDriver_Instance&quot;/&gt;
+      &lt;class name=&quot;Com.Test_Classes.MethodsAndTestsMultiThreading&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- IEBrowserTest --&gt;
+&lt;/suite&gt; &lt;!-- LocalisationTesting --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-LocalisationTesting" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for LocalisationTesting</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">ChromeBrowserTest (2 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">FirefoxBrowserTest (2 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">IEBrowserTest (2 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-LocalisationTesting" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for LocalisationTesting</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-LocalisationTesting" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for LocalisationTesting</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_LocalisationTesting');
+function tableData_LocalisationTesting() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(9);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'top10Button')
+data.setCell(0, 2, 'Com.Test_Classes.MethodsAndTestsMultiThreading')
+data.setCell(0, 3, 53689);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'homeButton')
+data.setCell(1, 2, 'Com.Test_Classes.MethodsAndTestsMultiThreading')
+data.setCell(1, 3, 46263);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'top10Button')
+data.setCell(2, 2, 'Com.Test_Classes.MethodsAndTestsMultiThreading')
+data.setCell(2, 3, 46177);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'homeButton')
+data.setCell(3, 2, 'Com.Test_Classes.MethodsAndTestsMultiThreading')
+data.setCell(3, 3, 39747);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'fetchTheData')
+data.setCell(4, 2, 'Com.Test_Classes.MethodsAndTestsMultiThreading')
+data.setCell(4, 3, 37307);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'fetchTheData')
+data.setCell(5, 2, 'Com.Test_Classes.MethodsAndTestsMultiThreading')
+data.setCell(5, 3, 26444);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'fetchTheData')
+data.setCell(6, 2, 'Com.Test_Classes.MethodsAndTestsMultiThreading')
+data.setCell(6, 3, 20831);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'top10Button')
+data.setCell(7, 2, 'Com.Test_Classes.MethodsAndTestsMultiThreading')
+data.setCell(7, 3, 17320);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'homeButton')
+data.setCell(8, 2, 'Com.Test_Classes.MethodsAndTestsMultiThreading')
+data.setCell(8, 3, 13802);
+window.suiteTableData['LocalisationTesting']= { tableData: data, tableDiv: 'times-div-LocalisationTesting'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 5 minutes</span>
+              <div id="times-div-LocalisationTesting">
+              </div> <!-- times-div-LocalisationTesting -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-LocalisationTesting" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for LocalisationTesting</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-LocalisationTesting" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-LocalisationTesting" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">Com.App_Functions.WebDriver_Instance</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">setTheWebDriverPath(No)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">Com.Test_Classes.MethodsAndTestsMultiThreading</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">createBrowserInstance(InternetExplorer, methods, 3, local)</span>
+                <span class="method-start">592 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="configuration-test before">
+                <span class="method-name">createBrowserInstance(Chrome, methods, 3, local)</span>
+                <span class="method-start">594 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="configuration-test before">
+                <span class="method-name">createBrowserInstance(Firefox, methods, 3, local)</span>
+                <span class="method-start">595 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">Com.App_Functions.WebDriver_Instance</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">selectTheBrowser(InternetExplorer)</span>
+                <span class="method-start">14823 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">Com.Test_Classes.MethodsAndTestsMultiThreading</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">fetchTheData(InternetExplorer, methods, 3)</span>
+                <span class="method-start">14920 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">Com.App_Functions.WebDriver_Instance</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">selectTheBrowser(Chrome)</span>
+                <span class="method-start">15886 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">Com.Test_Classes.MethodsAndTestsMultiThreading</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">fetchTheData(Chrome, methods, 3)</span>
+                <span class="method-start">15887 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">homeButton(InternetExplorer, methods, 3)</span>
+                <span class="method-start">35758 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">homeButton(Chrome, methods, 3)</span>
+                <span class="method-start">42334 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">Com.App_Functions.WebDriver_Instance</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">selectTheBrowser(Firefox)</span>
+                <span class="method-start">51656 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">Com.Test_Classes.MethodsAndTestsMultiThreading</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">fetchTheData(Firefox, methods, 3)</span>
+                <span class="method-start">51658 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">top10Button(InternetExplorer, methods, 3)</span>
+                <span class="method-start">75509 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">top10Button(Chrome, methods, 3)</span>
+                <span class="method-start">88604 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">homeButton(Firefox, methods, 3)</span>
+                <span class="method-start">88968 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">top10Button(Firefox, methods, 3)</span>
+                <span class="method-start">102772 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">closeBrowser(Firefox, 3)</span>
+                <span class="method-start">120095 ms</span>
+              </div> <!-- configuration-test after -->
+              <div class="configuration-test after">
+                <span class="method-name">closeBrowser(InternetExplorer, 3)</span>
+                <span class="method-start">121689 ms</span>
+              </div> <!-- configuration-test after -->
+              <div class="configuration-test after">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">closeBrowser(Chrome, 3)</span>
+                <span class="method-start">142299 ms</span>
+              </div> <!-- configuration-test after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

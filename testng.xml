@@ -1,0 +1,78 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<suite name="LocalisationTesting" parallel="tests" thread-count="3">
+<parameter name="testcases" value="5"/>
+<parameter name="test" value="TC_00"/>
+<parameter name="startoftest" value="1"/>
+<parameter name="localisation" value="No"/>
+<parameter name="runParallel" value = "methods"/>
+<parameter name="threads" value = "3"/>
+<parameter name="mode" value = "local"/>
+<listeners>
+<!-- <listener class-name="Com.App_Functions.AnnotationTransformer"></listener> -->
+</listeners>
+<test name="ChromeBrowserTest">
+<parameter name="browser" value="Chrome"/>
+<parameter name="src" value="ExpectedSrc"/>
+<parameter name="attribute" value="AttributeName"/>
+<parameter name="pageurl" value="PageUrl"/>
+<!-- <parameter name="locale" value="Locale"/>
+<parameter name="regionUrl" value="it-it/index.html"/> -->
+<!-- <groups>
+<define name= "all">
+<include name="smoke"/>
+<include name="functional"/>
+</define>
+<run>
+<include name="all"/>
+</run>
+</groups> -->
+<classes>
+<class name="Com.App_Functions.WebDriver_Instance"/>
+<class name="Com.Test_Classes.MethodsAndTestsMultiThreading"/>
+</classes>
+ </test>
+<test name="FirefoxBrowserTest">
+<parameter name="browser" value="Firefox"/>
+<parameter name="src" value="ExpectedSrc"/>
+<parameter name="attribute" value="AttributeName"/>
+<parameter name="pageurl" value="PageUrl"/>
+<!-- <parameter name="locale" value="Locale"/>
+<parameter name="regionUrl" value="it-it/index.html"/> -->
+<!-- <groups>
+<define name= "all">
+<include name="smoke"/>
+<include name="functional"/>
+</define>
+<run>
+<include name="all"/>
+</run>
+</groups> -->
+<classes>
+<class name="Com.App_Functions.WebDriver_Instance"/>
+<class name="Com.Test_Classes.MethodsAndTestsMultiThreading"/>
+</classes>
+</test>
+
+<test name="IEBrowserTest">
+<parameter name="browser" value="InternetExplorer"/>
+<parameter name="src" value="ExpectedSrc"/>
+<parameter name="attribute" value="AttributeName"/>
+<parameter name="pageurl" value="PageUrl"/>
+<!-- <groups>
+<define name= "all">
+<include name="smoke"/>
+<include name="functional"/>
+</define>
+<run>
+<include name="all"/>
+</run>
+</groups> -->
+<classes>
+<class name="Com.App_Functions.WebDriver_Instance"/>
+<class name="Com.Test_Classes.MethodsAndTestsMultiThreading"/>
+</classes>
+
+</test>
+
+</suite>

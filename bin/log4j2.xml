@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Appenders>	
+   <Console name="console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </Console>	
+		<RollingFile name="file" filename="./Logs/logs.log"
+			filepattern="./Peoplhub_Projectlogs-%d{yyyy-MM-dd}.log">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+			<SizeBasedTriggeringPolicy size="5000000" />
+		</RollingFile>
+	</Appenders>
+	<Loggers>
+		<Logger name="Com.Page_Elements.PeopleHub_ORGPage" level="trace"
+			additivity="false">
+			<AppenderRef ref="file" />
+		</Logger>
+		<Logger name="Com.Test_Classes.Test_Class1" level="trace"
+			additivity="false">
+			<AppenderRef ref="file" />
+		</Logger>
+		<Logger name="Com.App_Functions.WebDriver_Instance" level="trace"
+			additivity="false">
+			<AppenderRef ref="file" />
+		</Logger>
+		<Root level="trace">
+			<AppenderRef ref="file" />
+		</Root>
+	</Loggers>
+</Configuration>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [PeopleHubTesting]">
+  <test name="ChromeBrowserTest(failed)">
+    <parameter name="pageurl" value="PageUrl"/>
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="attribute" value="AttributeName"/>
+    <parameter name="src" value="ExpectedSrc"/>
+    <classes>
+      <class name="Com.Test_Classes.Localization_Test">
+        <methods>
+          <include name="closeTheDriverInstance"/>
+          <include name="getTheProperty"/>
+          <include name="getTheLocaleSpecificWebsite" invocation-numbers="0 1 2 3 4"/>
+        </methods>
+      </class> <!-- Com.Test_Classes.Localization_Test -->
+    </classes>
+  </test> <!-- ChromeBrowserTest(failed) -->
+</suite> <!-- Failed suite [PeopleHubTesting] -->
