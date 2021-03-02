@@ -7,7 +7,7 @@
 <parameter name="localisation" value="No"/>
 <parameter name="runParallel" value = "methods"/>
 <parameter name="threads" value = "3"/>
-<parameter name="mode" value = "local"/>
+<parameter name="mode" value = "SeleniumGrid"/>
 <listeners>
 <!-- <listener class-name="Com.App_Functions.AnnotationTransformer"></listener> -->
 </listeners>
